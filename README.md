@@ -1,7 +1,9 @@
 
+<div align="center">
+  <h1>Majd Adel Abualnour</h1>
+  <p><strong>AI & IoT Developer | Full-Stack Developer</strong></p>
+</div>
 
-# Majd Adel Abualnour  
-AI & IoT Developer | Full-Stack Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=c6bbef&width=435&lines=Building+Humanitarian+Tech+Solutions;Transforming+Ideas+Into+Impact;AI%2C+IoT+%26+Full-Stack+Developer" alt="Animated typing" />
