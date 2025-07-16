@@ -3,7 +3,7 @@
 # Majd Adel Abualnour | AI & IoT Developer | Tech Entrepreneur
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D3FD3&width=435&lines=Building+Humanitarian+Tech+Solutions;Transforming+Ideas+Into+Impact;AI%2C+IoT+%26+Full-Stack+Developer" alt="Animated typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=c6bbef&width=435&lines=Building+Humanitarian+Tech+Solutions;Transforming+Ideas+Into+Impact;AI%2C+IoT+%26+Full-Stack+Developer" alt="Animated typing" />
 </div>
 
 ## 📍 Profile Overview
