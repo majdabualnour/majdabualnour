@@ -1,4 +1,4 @@
-
+ 
 <div align="center">
   <h1>Majd Adel Abualnour</h1>
   <p><strong>AI & IoT Developer | Full-Stack Developer</strong></p>
@@ -11,17 +11,20 @@
 
 <div align="center">
 
-## 📍 Profile Overview  
-**Age:** 19 | **Location:** Gaza, Palestine  
-**Email:** majdapoalnoor@gmail.com | **Phone:** +972 56 714 6842  
-**Portfolio:** [portfolio-5aue.vercel.app](https://portfolio-5aue.vercel.app/)  
+📍 *Gaza, Palestine* | 🎂 *Age: 19*  
+📧 [majdapoalnoor@gmail.com](mailto:majdapoalnoor@gmail.com) | 📱 [+972 56 714 6842](tel:+972567146842)  
+🌐 [portfolio-5aue.vercel.app](https://portfolio-5aue.vercel.app/)
 
-**Social:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majd-abu-al-nour-500aba21b)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/majdabualnour)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/972567146842)
+---
+
+### 🌟 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majd-abu-al-nour-500aba21b)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/majdabualnour)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/972567146842)
 
 </div>
+
+
 
 
 ```python
