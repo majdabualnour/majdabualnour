@@ -9,14 +9,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=c6bbef&width=435&lines=Building+Humanitarian+Tech+Solutions;Transforming+Ideas+Into+Impact;AI%2C+IoT+%26+Full-Stack+Developer" alt="Animated typing" />
 </div>
 
-## 📍 Profile Overview
+<div align="center">
+
+## 📍 Profile Overview  
 **Age:** 19 | **Location:** Gaza, Palestine  
 **Email:** majdapoalnoor@gmail.com | **Phone:** +972 56 714 6842  
 **Portfolio:** [portfolio-5aue.vercel.app](https://portfolio-5aue.vercel.app/)  
+
 **Social:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majd-abu-al-nour-500aba21b)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/majdabualnour)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/972567146842)
+
+</div>
+
 
 ```python
 # My Tech Stack
