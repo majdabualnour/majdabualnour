@@ -33,7 +33,7 @@ def my_skills():
     return {
         "AI/ML": ["TensorFlow", "OpenCV", "CNN", "Computer Vision"],
         "IoT": ["Arduino", "Raspberry Pi", "ESP32", "Embedded C++"],
-        "Web": ["Next.js", "Django", "TypeScript", "Flask"],
+        "Web": ["Next.js", "Django", "TypeScript", "Flask", "FastAPI"],
         "Data": ["PostgreSQL", "Firebase", "Data Analytics"],
         "DevOps": ["Docker", "CI/CD", "Linux", "Vercel"]
     }
